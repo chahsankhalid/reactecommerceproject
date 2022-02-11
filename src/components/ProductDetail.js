@@ -33,6 +33,7 @@ const ProdctDetail = () => {
             }
         }
   return (
+      
       <>
         <div className="container" key={product.id}>
             <div className="row">
